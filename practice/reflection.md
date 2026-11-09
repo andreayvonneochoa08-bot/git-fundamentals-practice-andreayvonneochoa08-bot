@@ -16,4 +16,4 @@ Answer: A pull request connects the main file to whatever branch that is being w
 
 ## 4. Which Git command helped you understand the repository's state, and what did it show you?
 
-Answer: The fork command, and it helped me understand that even if editing one file is not possible, I can copy it and make my own changes to that copy.
+Answer: The fork command, and it helped me understand that even if editing one file is not possible, I can copy it and make my own changes to that copy..
