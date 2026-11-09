@@ -8,4 +8,4 @@
 
 ## One thing I learned
 
-Write one sentence here before creating the pull request.
+One thing I learned is the different terminologies used in Github such as "branches", "forks", etc.
